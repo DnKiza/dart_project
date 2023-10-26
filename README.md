@@ -1,4 +1,4 @@
-# wigor
+# Journey
 
 A new Flutter project.
 
